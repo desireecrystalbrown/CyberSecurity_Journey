@@ -1,6 +1,6 @@
-# Red Team Learning Journey
+# Cyber Security Learning Journey
 
-Welcome! This is my self-paced red team cybersecurity portfolio. I'm documenting every step of my learning process from zero experience to job-ready skills.
+Welcome! This is my self-paced cybersecurity portfolio. I'm documenting every step of my learning process from zero experience to job-ready skills.
 
 ## 📚 Contents
 - [Writeups](writeups.md)
