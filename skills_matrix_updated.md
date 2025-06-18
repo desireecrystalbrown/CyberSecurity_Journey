@@ -4,12 +4,12 @@ This matrix tracks my familiarity with tools, concepts, and techniques across my
 
 🔴 Not Started 🟡 Learning 🔵 Intermediate ✅ Solid
 
-| Skill / Concept         | Status       | Notes                                                  |
-|-------------------------|--------------|---------------------------------------------------------|
-| Linux Command Line      | 🔵 Intermediate | Completed Bandit levels, THM Linux Fundamentals Part 1  |
-| Networking Basics       | ✅ Solid       | Completed 'What is Networking?' on THM                 |
+| Skill / Concept         | Status         | Notes                                                  |
+|-------------------------|----------------|---------------------------------------------------------|
+| Linux Command Line      | 🟡 Learning    | Completed Bandit levels, THM Linux Fundamentals Part 1  |
+| Networking Basics       | 🟡 Learning    | Completed 'What is Networking?' on THM                 |
 | Common Attacks          | 🟡 Learning    | Finished THM Common Attacks room                       |
-| Git & GitHub            | 🟡 Learning    | Using GitHub web interface for portfolio               |
+| Git & GitHub            | 🔵 Intermediate| Using GitHub web interface for portfolio               |
 | Python Programming      | 🟡 Learning    | Completed THM Python Basics; started scripting         |
 | Bash Scripting          | 🟡 Learning    | Wrote SUID and enumeration scripts                     |
 | Nmap                    | 🔴 Not Started | To be learned during Phase 2                           |
