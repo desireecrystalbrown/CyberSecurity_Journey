@@ -2,7 +2,18 @@
 
 My day-to-day notes about what I've done and learned.
 
-### June 12, 2025
-- Completed Bandit Level 10–12
-- Practiced Nmap scans on CyberSecLabs Box 1
-- Started using Burp Suite on PortSwigger labs
+### June 12-17, 2025
+## ✅ Completed Rooms (TryHackMe)
+
+- **What is Networking?**  
+  Fundamentals of computer networking 
+
+- **Common Attacks**  
+  How common attacks occur, and cyber hygiene
+
+- **Python Basics**  
+  Basics of Python -- coded a short Bitcoin investment project.
+
+- **Linux Fundamentals Part 1**  
+  Introduction to Linux navigation, file systems, and basic commands via hands-on CLI tasks.
+
