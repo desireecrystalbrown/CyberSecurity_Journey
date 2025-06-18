@@ -2,8 +2,8 @@
 
 My day-to-day notes about what I've done and learned.
 
-### June 12-17, 2025
-## ✅ Completed Rooms (TryHackMe)
+## June 12-17, 2025
+### ✅ Completed Rooms (TryHackMe)
 
 - **What is Networking?**  
   Fundamentals of computer networking 
